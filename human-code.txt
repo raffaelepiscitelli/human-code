@@ -1,0 +1,77 @@
+- Mi trovo seduto sul divano pensieroso e non so che fare
+- Decido di guardare netflix
+- valuto su quale dispositivo guardare 
+
+    - SE su tv 
+        - Mi guardo attorno per trovare il telecomando
+        - Vedo il telecomando
+            - SE è vicino
+                - Lo afferro
+            - SE è lontano
+                - Mi alzo dal divano
+                - Cammino verso il telecomando
+                - Lo afferro con la mano
+                - Ritorno verso il divano
+                - Mi siedo
+        - Clicco il pulsante sul telecomando per accendere la tv
+        - Individuo l'applicazione netflix
+        - Apro l'applicazione
+
+    - SE su PC 
+        - Mi alzo dal divano
+        - Rifletto su dove si trova la postazione del pc
+        - Ricordo che la postazione si trova in un altra stanza
+        - Cammino verso la porta della stanza in cui mi trovo
+            - SE aperta
+                - Entro nella prossima camera
+            - Se chiusa
+                - Con la mano raggiungo la maniglia
+                - Faccio leva con la mano per far funzionare il meccanismo di apertura della maniglia
+                - Entro nella prossima camera
+        - Raggiungo la postazione del PC   
+        - Mi siedo sulla poltrona che si trova davanti al pc
+        - Raggiungo con la mano il pulsante di accensione del pc
+        - Allungo il dito indice e faccio pressione sul pulsante di accensione
+        - Inserisco la password del mio pc
+        - Individuo l'applicazione netflix
+        - Apro l'applicazione
+
+
+    - SE su telefono
+        -   Cerco il mio telefono guardandomi attorno
+        - Individuo il telefono
+            - SE è vicino
+                - Lo afferro
+            - SE è lontano
+                - Mi alzo dal divano
+                - Cammino verso il telefono
+                - Lo afferro con la mano
+                - Ritorno verso il divano
+                - Mi siedo
+        - Sblocco il cellulare immettendo la password
+        - Cerco l'applicazione di Netflix
+        - Apro l'applicazione
+            - SE loggato
+                - Entro automaticamente nella home
+            - SE non loggato
+                - Inserisco le credenziali
+            - Seleziono il mio profilo personale
+            - Valuto se guardare qualcosa suggerito da un amico, o di nuovo o da netflix
+            - Posso esplorare qualcosa sulle categorie
+                - Esploro tra le categorie offerte da Netflix
+                    - SE non la trovo la categoria che mi interessa 
+                        - Continuo a scrollare finche' non la trovo
+                    - SE la categoria mi interessa
+                        - Decido la categorie
+                        - Apro la categoria
+                        - Scorro il contenuto della categoria
+                        - Scelgo il contenuto
+                        - Avvio la riproduzione
+                    - SE voglio guardare qualcosa di gia' iniziato
+                        - Esploro tra le categorie evidenziate
+                        - CLicco su continua a guardare
+                        - Avvio la riproduzione
+
+
+
+     
